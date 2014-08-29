@@ -12,6 +12,9 @@ import java.util.List;
  *
  */
 public class bubblesort {
+    public String name = "bubblesort";
+    public String timeComplexity = "n^2";
+
     public static void main(String[] args) {
         List<Integer> unsortedArray = Arrays.asList(10,9,8,7,6,5,4,3,2,1,0);
         List<Integer> sortedArray = bubblesorter(unsortedArray);
@@ -39,6 +42,4 @@ public class bubblesort {
         }
         return arrayToSort;
     }
-
-
 }
