@@ -1,4 +1,4 @@
-package com.algorithms;
+package com.sortingalgorithms;
 
 /**
  * Created by Uy on 8/29/2014.
