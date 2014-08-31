@@ -5,7 +5,7 @@ Just a way for me to learn and brush up on data structures and algorithms. I'll 
 
 ###Searching
 
-1. Binary Search
+1. <strike>Binary Search</strike>
 2. Binary Search Trees (BST)
 3. Balanced BSTs (AA trees)
 4. n-ary trees (B trees)
@@ -25,10 +25,10 @@ Just a way for me to learn and brush up on data structures and algorithms. I'll 
 ###Graphs
 
 1. Brute Force Search (depth-first, breadth-first)
-2. heuristic search
 	1. best-first
 	2. least-cost
 	3. greedy
+2. heuristic search
 		1. hill climbing
 		2. beam search
 3. optimal-admissable (A*)
