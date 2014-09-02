@@ -6,14 +6,14 @@ import java.util.List;
 
 /**
  *
- * Class Name: mergesort.java
- * Description: Mergesort sorts an integer array using the mergesort algorithm
- *              Divide and Conquer algorithm
+ * Class Name: Mergesort.java
+ * Description: Mergesort sorts an integer array using the Mergesort Algorithm
+ *              Divide and Conquer Algorithm
  * Time Complexity: O(n log n)
  *
  */
-public class mergesort {
-    public String name = "mergesort";
+public class Mergesort {
+    public String name = "Mergesort";
     public String timeComplexity = "n log n";
 
     public static void main(String[] args) {

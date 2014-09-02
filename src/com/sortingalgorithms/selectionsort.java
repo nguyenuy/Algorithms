@@ -5,13 +5,13 @@ import java.util.List;
 
 /**
  *
- * Class Name: selectionsort.java
- * Description: SelectionSort sorts an integer array using the SelectionSort algorithm
+ * Class Name: Selectionsort.java
+ * Description: SelectionSort sorts an integer array using the SelectionSort Algorithm
  * Time Complexity: O(n^2)
  *
  */
-public class selectionsort {
-    public String name = "selectionsort";
+public class Selectionsort {
+    public String name = "Selectionsort";
     public String timeComplexity = "n^2";
 
     public static void main(String[] args) {

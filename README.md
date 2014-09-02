@@ -18,7 +18,7 @@ Just a way for me to learn and brush up on data structures and algorithms. I'll 
 2. <strike>Insertion Sort</strike>
 3. <strike>Selection Sort</strike>
 4. <strike>Merge Sort</strike>
-5. Quick Sort
+5. <strike>Quick Sort</strike>
 6. Heap Sort
 7. Shell Sort
 

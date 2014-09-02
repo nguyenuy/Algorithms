@@ -3,7 +3,7 @@ package com.sortingalgorithms;
 /**
  * Created by Uy on 8/29/2014.
  */
-public class algorithm {
+public class Algorithm {
     public String name;
     public String timeComplexity;
 

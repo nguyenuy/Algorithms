@@ -5,13 +5,13 @@ import java.util.List;
 
 /**
  *
- * Class Name: bubblesort.java
- * Description: Bubblesort sorts an integer array using the bubblesort algorithm
+ * Class Name: Bubblesort.java
+ * Description: Bubblesort sorts an integer array using the Bubblesort Algorithm
  * Time Complexity: O(n^2)
  *
  */
-public class bubblesort {
-    public String name = "bubblesort";
+public class Bubblesort {
+    public String name = "Bubblesort";
     public String timeComplexity = "n^2";
 
     public static void main(String[] args) {

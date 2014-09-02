@@ -5,14 +5,14 @@ import java.util.List;
 
 /**
  *
- * Class Name: binarysearch.java
+ * Class Name: Binarysearch.java
  * Description: Binary search searches an array for a number and returns the corresponding
  *              index. The array to be searched is required to be in ascending order in this
  *              case
  * Time Complexity: O(log n)
  *
  */
-public class binarysearch {
+public class Binarysearch {
     public static void main(String[] args) {
         List<Integer> searchArray = Arrays.asList(1, 5, 7, 8, 34, 59, 106);
 

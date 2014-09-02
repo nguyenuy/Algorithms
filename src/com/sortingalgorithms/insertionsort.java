@@ -5,12 +5,12 @@ import java.util.List;
 
 /**
  *
- * Class Name: insertionsort.java
- * Description: Insertion sort sorts an integer array using the insertion sort algorithm
+ * Class Name: Insertionsort.java
+ * Description: Insertion sort sorts an integer array using the insertion sort Algorithm
  * Time Complexity: O(n^2)
  *
  */
-public class insertionsort {
+public class Insertionsort {
     public String name = "Insertion Sort";
     public String timeComplexity = "n^2";
 
