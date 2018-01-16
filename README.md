@@ -1,28 +1,26 @@
 Algorithms/Data Structures
 ==========
 
-Just a way for me to learn and brush up on data structures and algorithms. I'll cross out topics below as I program and analyze them.
+### Searching
 
-###Searching
-
-1. <strike>Binary Search</strike>
+1. Binary Search
 2. Binary Search Trees (BST)
 3. Balanced BSTs (AA trees)
 4. n-ary trees (B trees)
 5. Priority Queues
 6. Hash Tables
 
-###Sorting Algorithms
+### Sorting Algorithms
 
-1. <strike>Bubblesort</strike>
-2. <strike>Insertion Sort</strike>
-3. <strike>Selection Sort</strike>
-4. <strike>Merge Sort</strike>
-5. <strike>Quick Sort</strike>
+1. Bubblesort
+2. Insertion Sort
+3. Selection Sort
+4. Merge Sort
+5. Quick Sort
 6. Heap Sort
 7. Shell Sort
 
-###Graphs
+### Graphs
 
 1. Brute Force Search (depth-first, breadth-first)
 	1. best-first
